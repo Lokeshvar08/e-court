@@ -1,2 +1,2 @@
 # e-court-bootathon
-This Project is API of another project
+Management of all Court documents in single application
